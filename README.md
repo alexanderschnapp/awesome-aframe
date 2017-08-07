@@ -219,7 +219,6 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-keyboard](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
 
 ### Scenes
-
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders) - Space invaders game. [[Code]](https://github.com/dmarcos/a-invaders)
 - [DrawVR](http://drawvr.com/) - DrawVR's portal leading to many A-Frame experiences including stores, games, rides, theaters, and scenes
 - [Cardboard Dungeon](https://chrismwaite.github.io/cardboard-dungeon) - A first-person dungeon crawler designed for mobile. [[Code]](https://github.com/chrismwaite/cardboard-dungeon)
@@ -313,7 +312,7 @@ Integration with existing tools, frameworks, and libraries.
 - [2017](http://2017.ronikdesign.com/) - Holiday snow globe in New York City
 - [Temples of Cambodia](http://interactive.aljazeera.com/aje/2017/cambodia-temples/) - Tour of the most popular temples of Cambodia, from [Al Jazeera](http://www.aljazeera.com/)
 - [React Imago3D](https://github.com/kenta88/react-imago3d) - Make WebVR easily creating your own scene with built-in 3d object and use your browser or vr headset to see what you built in real time.
-
+- [aframe-react-stories demo](http://afsdemo.aschnapp.com) - Demo of [aframe-react-stories](http://npmjs.com/aframe-react-stories) module. A module to quickly add social media style stories in VR to your project. 
 ### Tools
 
 Tools built with or for A-Frame.
