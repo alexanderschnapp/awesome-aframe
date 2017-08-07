@@ -313,6 +313,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Temples of Cambodia](http://interactive.aljazeera.com/aje/2017/cambodia-temples/) - Tour of the most popular temples of Cambodia, from [Al Jazeera](http://www.aljazeera.com/)
 - [React Imago3D](https://github.com/kenta88/react-imago3d) - Make WebVR easily creating your own scene with built-in 3d object and use your browser or vr headset to see what you built in real time.
 - [aframe-react-stories demo](http://afsdemo.aschnapp.com) - Demo of [aframe-react-stories](http://npmjs.com/aframe-react-stories) module. A module to quickly add social media style stories in VR to your project. 
+- [VR Stories](http://vrstories.aschnapp.com) - Social media style stories in VR. Using the [aframe-react-stories](http://npmjs.com/aframe-react-stories) module
 ### Tools
 
 Tools built with or for A-Frame.
