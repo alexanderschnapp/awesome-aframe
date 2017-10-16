@@ -178,6 +178,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using three.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - Use stereoscopic cube-map textures (i.e., left and right eye textures)
+- [Stories](https://afsdemo.aschnapp.com) - Demo of [aframe-react-stories](https://npmjs.com/aframe-react-stories) module. A module to quickly add social media style stories in VR to your project. 
 - [SVG File](https://github.com/7dir/aframe-svgfile-component) - Load basic SVG files as 3d geometry
 - [Teleport Controls](https://github.com/fernandojsg/aframe-teleport-controls) - Teleportation with tracked controllers
 - [Template](https://github.com/ngokevin/kframe/tree/master/components/template) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
@@ -318,7 +319,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Temples of Cambodia](http://interactive.aljazeera.com/aje/2017/cambodia-temples/) - Tour of the most popular temples of Cambodia, from [Al Jazeera](http://www.aljazeera.com/)
 - [React Imago3D](https://github.com/kenta88/react-imago3d) - Make WebVR easily creating your own scene with built-in 3d object and use your browser or vr headset to see what you built in real time.
 - [Have fun with nature](https://polideaplayground.github.io/WebVRExperience/) - Play with different environmental effects using your desktop browser or mobile VR headsets, like Daydream, Gear VR or Cardboard. [[Code]](https://github.com/PolideaPlayground/WebVRExperience)
-- [aframe-react-stories demo](http://afsdemo.aschnapp.com) - Demo of [aframe-react-stories](http://npmjs.com/aframe-react-stories) module. A module to quickly add social media style stories in VR to your project. 
+
 ### Tools
 
 Tools built with or for A-Frame.
