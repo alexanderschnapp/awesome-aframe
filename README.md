@@ -120,6 +120,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Daydream Controller](https://github.com/ryanbetts/aframe-daydream-controller-component) - Daydream controls
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
+- [Effects System](https://github.com/wizgrav/aframe-effects) - A VR-ready post-processing framework for A-Frame
 - [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Event Set](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
 - [Extras](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
@@ -132,6 +133,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
 - [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
+- [Google Blocks](https://github.com/archilogic-com/aframe-gblock) - Display content from Google Blocks
 - [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
 - [Heatmap3d](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component
@@ -163,6 +165,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining the HTC Vive's controllers with the [`aframe-physics-system`](https://github.com/donmccurdy/aframe-physics-system) component
 - [Physics](https://github.com/donmccurdy/aframe-physics-system) - Rigid-body physics using [Cannon.js](http://www.cannonjs.org/)
 - [Pipe](https://github.com/jellix79/aframe-pipe-component) - A pipe with inner and outer radii
+- [Plot](https://github.com/mikebolt/aframe-plot-component) - Render 3D plots using mathematical functions or data.
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping [`THREE.PLYLoader`](https://threejs.org/examples/webgl_loader_ply.html)
 - [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - `n`-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com/) - Connect input devices from your desktop to your mobile phone with [WebRTC data channels](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Using_data_channels)
@@ -217,6 +220,8 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
 - [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
 - [aframe-keyboard](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
+- [Virtual World Framework](https://github.com/NikolaySuslov/livecodingspace) - A-Frame with [Virtual World Framework](https://github.com/virtual-world-framework/vwf), a JavaScript app framework for building collaborative, immersive applications with live coding support
+- [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - This boilerplate leverages extremely simple deployment flow from Zeit's Now, now available for WebVR with A-Frame and React
 
 ### Scenes
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders) - Space invaders game. [[Code]](https://github.com/dmarcos/a-invaders)
@@ -312,15 +317,16 @@ Integration with existing tools, frameworks, and libraries.
 - [2017](http://2017.ronikdesign.com/) - Holiday snow globe in New York City
 - [Temples of Cambodia](http://interactive.aljazeera.com/aje/2017/cambodia-temples/) - Tour of the most popular temples of Cambodia, from [Al Jazeera](http://www.aljazeera.com/)
 - [React Imago3D](https://github.com/kenta88/react-imago3d) - Make WebVR easily creating your own scene with built-in 3d object and use your browser or vr headset to see what you built in real time.
+- [Have fun with nature](https://polideaplayground.github.io/WebVRExperience/) - Play with different environmental effects using your desktop browser or mobile VR headsets, like Daydream, Gear VR or Cardboard. [[Code]](https://github.com/PolideaPlayground/WebVRExperience)
 - [aframe-react-stories demo](http://afsdemo.aschnapp.com) - Demo of [aframe-react-stories](http://npmjs.com/aframe-react-stories) module. A module to quickly add social media style stories in VR to your project. 
-- [VR Stories](http://vrstories.aschnapp.com) - Social media style stories in VR. Using the [aframe-react-stories](http://npmjs.com/aframe-react-stories) module
 ### Tools
 
 Tools built with or for A-Frame.
 
 - [WebVR Studio](http://webvrstudio.com/)
-- [Fader Editor](https://fader.vragments.com/)
+- [Fader Editor](https://getfader.com/)
 - [IdeaSpace VR](https://www.ideaspacevr.org/)
+- [Hologram](https://hologram.cool/)
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
